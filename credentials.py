@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 15 15:20:05 2018
 
-@author: Surabhi Pandey
+"""
+These details need to be extracted from the twitter account. A very detailed tutorial can be found here :
+https://goo.gl/dnmQic
 """
 
 # Creating variables for each key, secret, token
